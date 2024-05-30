@@ -1,7 +1,6 @@
 ## Dev/Fernando Ferrari
 
 <div>
-  <a href = "https://github.com/feh20022">
   <img height = "180em" src = https://github-readme-stats.vercel.app/api?username=feh20022&show_icons=true&theme=merko>
   <img height = "180em" src = https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko>
 </div>
