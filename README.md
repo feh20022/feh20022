@@ -1,16 +1,19 @@
-## Hi there 👋
+## Dev/Fernando Ferrari
 
-<!--
-**feh20022/feh20022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href = "https://github.com/feh20022">
+  <img height = "180em" src = https://github-readme-stats.vercel.app/api?username=feh20022&show_icons=true&theme=merko>
+  <img height = "180em" src = https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style = "display: inline_block"><br>
+  <img align = "center"  height = "50" width = "75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align = "center"  height = "50" width = "75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align = "center"  height = "50" width = "75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align = "center"  height = "50" width = "75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img align = "center"  height = "50" width = "75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+  <img align = "center"  height = "50" width = "75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
+</div>
+          
