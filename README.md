@@ -2,7 +2,7 @@
 
 <div>
   <img height = "180em" src = https://github-readme-stats.vercel.app/api?username=feh20022&show_icons=true&theme=merko>
-  <img height = "180em" src = https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko>
+  <img height = "180em" src = https://github-readme-stats.vercel.app/api/top-langs/?username=feh20022&layout=compact&theme=merko>
 </div>
 
 <div style = "display: inline_block"><br>
